@@ -70,15 +70,15 @@ class Cerc(FormaGeometrica):
 
 # Polimorfism
 
-def descrie:
-    print("Eu nu am colturi")
-
-class Patrat(FormaGeometrica):
-    def __init__(self):
-
-
+# def descrie:
+#     print("Eu nu am colturi")
+#
+# class Patrat(FormaGeometrica):
+    # def __init__(self):
 
 
 
-class Cerc(FormaGeometrica):
-    def __init__(self):
+
+
+# class Cerc(FormaGeometrica):
+    # def __init__(self):
